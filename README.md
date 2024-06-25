@@ -16,8 +16,7 @@ The interface is divided into two main sections: the user list and the new user 
 
 Displays the unique identifier for each user. Defined as integer. It has static, non-editable behaviour.
 
-#### User Name Columnhttps://github.com/daffytryin/User_Management_Screen_Specification.git
-
+#### User Name Column
 Displays the username of each user. Defined as string. It has static, non-editable behaviour.
 
 #### Email Column
